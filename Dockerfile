@@ -6,4 +6,4 @@ COPY . /app
 
 RUN javac sample.java
 
-CMD ["java",sample]
+CMD ["java","sample"]
